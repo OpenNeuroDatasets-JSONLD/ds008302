@@ -1,0 +1,19 @@
+{
+  "Name": "Cognitive overload dataset (EEG + eye-tracking)",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "Authors": [
+    "Yuri G. Pavlov"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.0",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "10.1"
+    }
+  ],
+  "DatasetType": "raw"
+}
