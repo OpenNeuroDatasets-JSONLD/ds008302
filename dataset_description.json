@@ -16,5 +16,6 @@
         }
     ],
     "DatasetType": "raw",
-    "Acknowledgements": "--"
+    "Acknowledgements": "--",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008302.v1.0.0"
 }
