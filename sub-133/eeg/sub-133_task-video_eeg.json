@@ -11,7 +11,7 @@
   "TaskName": "video",
   "EEGReference": "FCz",
   "RecordingType": "continuous",
-  "RecordingDuration": 233.869,
+  "RecordingDuration": 225.872,
   "SamplingFrequency": 1000,
   "SoftwareFilters": "n/a",
   "Manufacturer": "Brain Products",

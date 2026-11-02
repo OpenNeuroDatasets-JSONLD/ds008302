@@ -11,7 +11,7 @@
   "TaskName": "rest",
   "EEGReference": "FCz",
   "RecordingType": "continuous",
-  "RecordingDuration": 481.106,
+  "RecordingDuration": 481.255,
   "SamplingFrequency": 1000,
   "SoftwareFilters": "n/a",
   "Manufacturer": "Brain Products",
